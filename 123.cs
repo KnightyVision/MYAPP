@@ -4,5 +4,8 @@ class MYAPP {
     int a = 3;
     int b = 4;
     int c;
+    c = a + b;
+    if (c == 7)
+    Console.WriteLine("Всё хорошо");
   }
 }
